@@ -12,21 +12,21 @@ sure to give proper credit to the template creators).
 
 ###Gallery
 
-##Folders
+####Folders
 
-![](OS\ X\ Folders/Adobe/Adobe.png)
-![](OS\ X\ Folders/Audacity/Audacity.png)
-![](OS\ X\ Folders/Dropbox/Dropbox.png)
-![](OS\ X\ Folders/Eclipse/Eclipse.png)
-![](OS\ X\ Folders/Games/Games.png)
-![](OS\ X\ Folders/PC/PC.png)
-![](OS\ X\ Folders/Python/Python.png)
-![](OS\ X\ Folders/Temporary/Temporary.png)
+![](OS\ X\ Folders/Adobe/Adobe.png =250x)
+![](OS\ X\ Folders/Audacity/Audacity.png =250x)
+![](OS\ X\ Folders/Dropbox/Dropbox.png =250x)
+![](OS\ X\ Folders/Eclipse/Eclipse.png =250x)
+![](OS\ X\ Folders/Games/Games.png =250x)
+![](OS\ X\ Folders/PC/PC.png =250x)
+![](OS\ X\ Folders/Python/Python.png =250x)
+![](OS\ X\ Folders/Temporary/Temporary.png =250x)
 
-##Apps
+####Apps
 
-![](App\ Icons/BeotsMusic/BeotsMusic.png)
-![](OS\ X\ Folders/Facetime/Facetime.png)
-![](OS\ X\ Folders/NetNewsWire/NetNewsWire.png)
-![](OS\ X\ Folders/Skype/Skype.png)
-![](OS\ X\ Folders/X11/X11.png)
+![](App\ Icons/BeotsMusic/BeotsMusic.png =250x)
+![](App\ Icons/Facetime/Facetime.png =250x)
+![](App\ Icons/NetNewsWire/NetNewsWire.png =250x)
+![](App\ Icons/Skype/Skype.png =250x)
+![](App\ Icons/X11/X11.png =250x)
