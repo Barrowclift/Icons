@@ -1,4 +1,4 @@
-Icon Bundle
+Icons
 ===========
 
 ###General Information
