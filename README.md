@@ -14,19 +14,19 @@ sure to give proper credit to the template creators).
 
 ####Folders
 
-<img src="OS\ X\ Folders/Adobe/Adobe.png" width="210">
-<img src="OS\ X\ Folders/Audacity/Audacity.png" width="210">
-<img src="OS\ X\ Folders/Dropbox/Dropbox.png" width="210">
-<img src="OS\ X\ Folders/Eclipse/Eclipse.png" width="210">
-<img src="OS\ X\ Folders/Games/Games.png" width="210">
-<img src="OS\ X\ Folders/PC/PC.png" width="210">
-<img src="OS\ X\ Folders/Python/Python.png" width="210">
-<img src="OS\ X\ Folders/Temporary/Temporary.png" width="210">
+<img src="https://raw.githubusercontent.com/Barrowclift/Icons/master/OS%20X%20Folders/Adobe/Adobe.png" width="210">
+<img src="https://raw.githubusercontent.com/Barrowclift/Icons/master/OS%20X%20Folders/Audacity/Audacity.png" width="210">
+<img src="https://raw.githubusercontent.com/Barrowclift/Icons/master/OS%20X%20Folders/Dropbox/Dropbox.png" width="210">
+<img src="https://raw.githubusercontent.com/Barrowclift/Icons/master/OS%20X%20Folders/Eclipse/Eclipse.png" width="210">
+<img src="https://raw.githubusercontent.com/Barrowclift/Icons/master/OS%20X%20Folders/Games/Games.png" width="210">
+<img src="https://raw.githubusercontent.com/Barrowclift/Icons/master/OS%20X%20Folders/PC/PC.png" width="210">
+<img src="https://raw.githubusercontent.com/Barrowclift/Icons/master/OS%20X%20Folders/Python/Python.png" width="210">
+<img src="https://raw.githubusercontent.com/Barrowclift/Icons/master/OS%20X%20Folders/Temporary/Temporary.png" width="210">
 
 ####Apps
 
-<img src="App\ Icons/BeotsMusic/BeotsMusic.png" width="210">
-<img src="App\ Icons/Facetime/Facetime.png" width="210">
-<img src="App\ Icons/NetNewsWire/NetNewsWire.png" width="210">
-<img src="App\ Icons/Skype/Skype.png" width="210">
-<img src="App\ Icons/X11/X11.png" width="210">
+<img src="https://raw.githubusercontent.com/Barrowclift/Icons/master/App%20Icons/BeotsMusic/BeotsMusic.png" width="210">
+<img src="https://raw.githubusercontent.com/Barrowclift/Icons/master/App%20Icons/Facetime/Facetime.png" width="210">
+<img src="https://raw.githubusercontent.com/Barrowclift/Icons/master/App%20Icons/NetNewsWire/NetNewsWire.png" width="210">
+<img src="https://raw.githubusercontent.com/Barrowclift/Icons/master/App%20Icons/Skype/Skype.png" width="210">
+<img src="https://raw.githubusercontent.com/Barrowclift/Icons/master/App%20Icons/X11/X11.png" width="210">
