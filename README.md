@@ -14,19 +14,19 @@ sure to give proper credit to the template creators).
 
 ####Folders
 
-![](OS\ X\ Folders/Adobe/Adobe.png =250x)
-![](OS\ X\ Folders/Audacity/Audacity.png =250x)
-![](OS\ X\ Folders/Dropbox/Dropbox.png =250x)
-![](OS\ X\ Folders/Eclipse/Eclipse.png =250x)
-![](OS\ X\ Folders/Games/Games.png =250x)
-![](OS\ X\ Folders/PC/PC.png =250x)
-![](OS\ X\ Folders/Python/Python.png =250x)
-![](OS\ X\ Folders/Temporary/Temporary.png =250x)
+<img src="OS\ X\ Folders/Adobe/Adobe.png" width="210">
+<img src="OS\ X\ Folders/Audacity/Audacity.png" width="210">
+<img src="OS\ X\ Folders/Dropbox/Dropbox.png" width="210">
+<img src="OS\ X\ Folders/Eclipse/Eclipse.png" width="210">
+<img src="OS\ X\ Folders/Games/Games.png" width="210">
+<img src="OS\ X\ Folders/PC/PC.png" width="210">
+<img src="OS\ X\ Folders/Python/Python.png" width="210">
+<img src="OS\ X\ Folders/Temporary/Temporary.png" width="210">
 
 ####Apps
 
-![](App\ Icons/BeotsMusic/BeotsMusic.png =250x)
-![](App\ Icons/Facetime/Facetime.png =250x)
-![](App\ Icons/NetNewsWire/NetNewsWire.png =250x)
-![](App\ Icons/Skype/Skype.png =250x)
-![](App\ Icons/X11/X11.png =250x)
+<img src="App\ Icons/BeotsMusic/BeotsMusic.png" width="210">
+<img src="App\ Icons/Facetime/Facetime.png" width="210">
+<img src="App\ Icons/NetNewsWire/NetNewsWire.png" width="210">
+<img src="App\ Icons/Skype/Skype.png" width="210">
+<img src="App\ Icons/X11/X11.png" width="210">
