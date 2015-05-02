@@ -24,6 +24,7 @@ sure to give proper credit to the template creators).
 
 ####Apps
 
+<img src="https://raw.githubusercontent.com/Barrowclift/Icons/master/App%20Icons/Adobe%20Reader/Adobe%20Reader.png" width="210">
 <img src="https://raw.githubusercontent.com/Barrowclift/Icons/master/App%20Icons/BeotsMusic/BeotsMusic.png" width="210">
 <img src="https://raw.githubusercontent.com/Barrowclift/Icons/master/App%20Icons/Chess/Chess.png" width="210">
 <img src="https://raw.githubusercontent.com/Barrowclift/Icons/master/App%20Icons/Facetime/Facetime.png" width="210">
