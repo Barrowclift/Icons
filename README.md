@@ -16,7 +16,6 @@ sure to give proper credit to the template creators).
 
 <img src="https://raw.githubusercontent.com/Barrowclift/Icons/master/OS%20X%20Folders/Adobe/Adobe.png" width="210">
 <img src="https://raw.githubusercontent.com/Barrowclift/Icons/master/OS%20X%20Folders/Audacity/Audacity.png" width="210">
-<img src="https://raw.githubusercontent.com/Barrowclift/Icons/master/OS%20X%20Folders/Dropbox/Dropbox.png" width="210">
 <img src="https://raw.githubusercontent.com/Barrowclift/Icons/master/OS%20X%20Folders/Eclipse/Eclipse.png" width="210">
 <img src="https://raw.githubusercontent.com/Barrowclift/Icons/master/OS%20X%20Folders/Games/Games.png" width="210">
 <img src="https://raw.githubusercontent.com/Barrowclift/Icons/master/OS%20X%20Folders/PC/PC.png" width="210">
@@ -26,6 +25,7 @@ sure to give proper credit to the template creators).
 ####Apps
 
 <img src="https://raw.githubusercontent.com/Barrowclift/Icons/master/App%20Icons/BeotsMusic/BeotsMusic.png" width="210">
+<img src="https://raw.githubusercontent.com/Barrowclift/Icons/master/App%20Icons/Chess/Chess.png" width="210">
 <img src="https://raw.githubusercontent.com/Barrowclift/Icons/master/App%20Icons/Facetime/Facetime.png" width="210">
 <img src="https://raw.githubusercontent.com/Barrowclift/Icons/master/App%20Icons/NetNewsWire/NetNewsWire.png" width="210">
 <img src="https://raw.githubusercontent.com/Barrowclift/Icons/master/App%20Icons/Skype/Skype.png" width="210">
