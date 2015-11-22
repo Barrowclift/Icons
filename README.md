@@ -41,6 +41,7 @@ Gallery
 <img src="https://raw.githubusercontent.com/Barrowclift/Icons/master/System-Utilities/Logitech-Options/Logitech-Options.png" width="210">
 <img src="https://raw.githubusercontent.com/Barrowclift/Icons/master/System-Utilities/SMC-Fan-Control/SMC-Fan-Control.png" width="210">
 <img src="https://raw.githubusercontent.com/Barrowclift/Icons/master/System-Utilities/X11/X11.png" width="210">
+<img src="https://raw.githubusercontent.com/Barrowclift/Icons/master/System-Utilities/Flux/Flux.png" width="210">
 
 ### Folders
 
