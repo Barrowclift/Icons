@@ -20,7 +20,7 @@ Gallery
 
 ### Applications
 
-<img src="https://raw.githubusercontent.com/Barrowclift/Icons/master/Applications/Adobe-Reader/Adobe-Reader.png" width="210"><img src="https://raw.githubusercontent.com/Barrowclift/Icons/master/Applications/Eclipse/Eclipse.png" width="210"><img src="https://raw.githubusercontent.com/Barrowclift/Icons/master/Applications/Sketch/Sketch.png" width="210"><img src="https://raw.githubusercontent.com/Barrowclift/Icons/master/Applications/Kid3/Kid3.png" width="210">
+<img src="https://raw.githubusercontent.com/Barrowclift/Icons/master/Applications/Adobe-Reader/Adobe-Reader.png" width="210"><img src="https://raw.githubusercontent.com/Barrowclift/Icons/master/Applications/Eclipse/Eclipse.png" width="210"><img src="https://raw.githubusercontent.com/Barrowclift/Icons/master/Applications/Sketch/Sketch.png" width="210"><img src="https://raw.githubusercontent.com/Barrowclift/Icons/master/Applications/Kid3/Kid3.png" width="210"><img src="https://raw.githubusercontent.com/Barrowclift/Icons/master/Applications/IntelliJ/IntelliJ.png" width="210">
 
 ### System Utilities
 
@@ -28,4 +28,4 @@ Gallery
 
 ### Folders
 
-<img src="https://raw.githubusercontent.com/Barrowclift/Icons/master/Folders/Adobe/Adobe.png" width="210"><img src="https://raw.githubusercontent.com/Barrowclift/Icons/master/Folders/Audacity/Audacity.png" width="210"><img src="https://raw.githubusercontent.com/Barrowclift/Icons/master/Folders/Eclipse/Eclipse.png" width="210"><img src="https://raw.githubusercontent.com/Barrowclift/Icons/master/Folders/Games/Games.png" width="210"><img src="https://raw.githubusercontent.com/Barrowclift/Icons/master/Folders/HP/HP.png" width="210"><img src="https://raw.githubusercontent.com/Barrowclift/Icons/master/Folders/PC/PC.png" width="210"><img src="https://raw.githubusercontent.com/Barrowclift/Icons/master/Folders/Python/Python.png" width="210"><img src="https://raw.githubusercontent.com/Barrowclift/Icons/master/Folders/Temporary/Temporary.png" width="210">
+<img src="https://raw.githubusercontent.com/Barrowclift/Icons/master/Folders/Adobe/Adobe.png" width="210"><img src="https://raw.githubusercontent.com/Barrowclift/Icons/master/Folders/Audacity/Audacity.png" width="210"><img src="https://raw.githubusercontent.com/Barrowclift/Icons/master/Folders/Eclipse/Eclipse.png" width="210"><img src="https://raw.githubusercontent.com/Barrowclift/Icons/master/Folders/Games/Games.png" width="210"><img src="https://raw.githubusercontent.com/Barrowclift/Icons/master/Folders/HP/HP.png" width="210"><img src="https://raw.githubusercontent.com/Barrowclift/Icons/master/Folders/PC/PC.png" width="210"><img src="https://raw.githubusercontent.com/Barrowclift/Icons/master/Folders/Python/Python.png" width="210"><img src="https://raw.githubusercontent.com/Barrowclift/Icons/master/Folders/Temporary/Temporary.png" width="210"><img src="https://raw.githubusercontent.com/Barrowclift/Icons/master/Folders/Designer/Designer.png" width="210">
